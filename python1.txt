@@ -1,0 +1,3 @@
+Arm strong number
+
+arm stron number is  nothing but number of n digits should be equal to sum of nth power of its digits.
