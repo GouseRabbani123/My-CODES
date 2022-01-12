@@ -1,0 +1,8 @@
+#Printing the pattern in wholo right triangle shape.
+
+#COde start here
+
+
+
+
+
