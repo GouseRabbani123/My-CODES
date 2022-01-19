@@ -1,0 +1,19 @@
+LCM Least Common factor
+
+example 25 and 15 are the two numbers 
+
+
+we wants to find the numbers which is multiple of both the numbers
+
+
+#Code start here
+
+a = int(input())
+b =  int(input())
+for i in range(1,a*b+1):
+	if(i%a == 0 and i%b == 0):
+		print(i)
+		break;
+
+
+#Code ends here
