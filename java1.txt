@@ -1,0 +1,56 @@
+First Hello world code in java
+
+#code start here
+
+import java.util.Scanner;
+public class Main {
+    public static void main(String[] args) {
+        
+        System.out.print("Hello world");
+    }
+}
+
+#code end here
+
+
+
+
+Second Using new line for printing
+
+#code start here
+
+import java.util.Scanner;
+public class Main {
+    public static void main(String[] args) {
+        
+        System.out.print("**\n****\n****\n");
+    }
+}
+
+#code end here
+
+
+
+
+
+Third Printing "Z" Pattern in java
+
+#Code start here
+import java.util.Scanner;
+public class Main {
+    public static void main(String[] args) {
+        
+    System.out.println("* * * * *");
+    System.out.println("      *");
+    System.out.println("    *");
+    System.out.println(" *");
+    System.out.print("* * * * *");
+    }
+}
+
+
+#Code End here
+
+
+
+
